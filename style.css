@@ -73,6 +73,7 @@ header img {
   align-items: center;
   font-size: 14px;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .login__container--social-media > div > img {
